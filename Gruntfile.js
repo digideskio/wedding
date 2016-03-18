@@ -208,4 +208,7 @@ module.exports = function (grunt) {
         'connect:livereload',
         'watch'
     ]);
+    grunt.registerTask('heroku', [
+        'build'
+    ]);
 };

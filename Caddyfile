@@ -1,3 +1,5 @@
-root ./dist
 gzip
 
+luke-and-peggys-wedding.herokuapp.com {
+  root ./dist
+}

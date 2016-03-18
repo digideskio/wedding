@@ -1,4 +1,4 @@
-luke-and-peggys-wedding.herokuapp.com {
+http://luke-and-peggys-wedding.herokuapp.com {
   gzip
   root ./dist
 }

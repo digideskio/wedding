@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "It is an awesome project",
   "scripts": {
-    "postinstall": "grunt build",
+    "postinstall": "grunt build"
   },
   "devDependencies": {
     "assemble": "^0.4.42",
